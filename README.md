@@ -2,6 +2,6 @@
 
 add you comments here and we will work on them.
 Any ideas you might have
-# Suggetions
+# Suggestions
 
 lets build a speacial exam registration system
